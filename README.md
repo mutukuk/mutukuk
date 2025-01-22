@@ -7,7 +7,7 @@ expertise_areas = [
                     "digital marketing"
 ]
 
- I Bring a unique blend of skills to the table.
+ I Bring a unique blend of skills.
 
     👀 I’m deeply interested in tech innovation, data-driven solutions, and promoting digital literacy.
     🌱 I’m currently honing my expertise in data science to tackle even more complex problems.
